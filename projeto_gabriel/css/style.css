@@ -56,9 +56,9 @@ margin-bottom:60px;
 font-size:18px;
 font-weight:300px;
 }
-/formulário/
+/*formulário*/
 
-#search-form input,
+#search-form input;
     #search-form select{
     background-color:#fff;
     border-radius:5px;
@@ -67,7 +67,7 @@ font-weight:300px;
     font-size:18px;
     Margin:0 10px;
 }
-    #search-form input type=submit{
+    #search-form input [type=submit]{
     background-color:#3381f3;
     text-transform:uppercase;->
     color:#fff;
