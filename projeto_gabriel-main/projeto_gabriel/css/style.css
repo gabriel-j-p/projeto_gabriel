@@ -61,11 +61,11 @@ font-weight:300px;
 #search-form input,
     #search-form select{
     background-color:#fff;
-    border-radius:5px;
+    border-radius:6px;
     border-color:transparent;
-    padding:10px 20px;
-    font-size:18px;
-    Margin:0 10px;
+    padding:10px 21px;
+    font-size:19px;
+    Margin:0 11px;
 }
     #search-form input type=submit{
     background-color:#3381f3;
